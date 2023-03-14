@@ -1,4 +1,4 @@
-module gitlab.com/wuwuz/chacha20
+module github.com/wuwuz/chacha20
 
 go 1.12
 
